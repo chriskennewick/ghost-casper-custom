@@ -1,0 +1,8 @@
+.blog-title,.blog-description{
+  color: rgb(109, 109, 109);
+  background: rgba(228, 228, 228, 0.5);
+  text-shadow: 2px 4px 3px rgba(255, 255, 255, 0.2);
+  margin-bottom: 0px;
+}
+
+
